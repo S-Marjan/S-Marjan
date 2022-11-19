@@ -1,4 +1,4 @@
-- 👋 Hi, I’m S-Marjan
+- 👋 Hi, I’m Marjan
 - ...I’m interested in Web Developing
 - ...I’m currently learning different kind of languages
 - 💞️ I would love to do group projects
